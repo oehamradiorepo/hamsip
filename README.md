@@ -36,8 +36,9 @@ VPN Password: <vpn-pass>
 * Keep these credentials safe.
 * You will use them to connect both VPN and MicroSIP.
 
-## Step 2 — VPN Setup on Windows
+## Step 2 — VPN Setup on Windows 
 
+0. Request HAMNET VPN via HAMWEB.AT
 1. Open **Settings → Network & Internet → VPN → Add VPN connection**
 2. Choose **VPN provider: Windows (built-in)**
 3. Connection name: `HAMSIP VPN`
